@@ -9,6 +9,8 @@
 $ npm install -g cordova ionic
 ```
 
+lol
+
 
 ### 3 - Créer un projet Ionic
  * 3.1 - Ouvrir un terminal, et exécuter la commande suivante :
