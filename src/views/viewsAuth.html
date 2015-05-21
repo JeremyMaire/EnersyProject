@@ -1,0 +1,19 @@
+<div class="containtErreur">
+<div ng-show="error" class="erreur alert-danger">{{error}}</div>
+</div>
+<form name="form" ng-submit="login()" role="form">
+
+    <div class="logo"></div>
+    
+        <label for="ssid">SSID</label>
+    <div class="inputButton">
+        <input type="text" name="ssid" id="ssid" class="form-control" ng-model="ssid" placeholder="SSID : enersy"required />
+         </div>
+        <label for="password">MOT DE PASSE</label>
+    <div class="inputButton">
+        <input type="password" name="password" id="password" class="form-control" ng-model="password" placeholder="Mot de passe : enersy123" required />
+        <div class="envoyer">
+        <button type="submit">ENVOYER</button>
+        <img ng-if="dataLoading" src="src/resources/img/loader.gif"/>    
+        </div>
+</form>
