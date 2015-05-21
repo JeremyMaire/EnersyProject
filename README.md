@@ -22,7 +22,7 @@ $ ionic start EnersyProjectIonic
   * 5.2 - Supprimer tous les fichiers présents, et ajouter le contenu du dossier EnersyProject, téléchargé sur Github.
 
 ##### 6 - Lancer l'application en ligne de commande 
-  * 6.1 - Ouvrir un terminal , se placer dans le dossier <strong>EnersyProjectIonic</strong> créé par ionic l'étape 4.1, et exécuter la commande suivante :
+  * 6.1 - Ouvrir un terminal , se placer dans le dossier <strong>EnersyProjectIonic</strong> crée à l'étape 4.1, et exécuter la commande suivante :
 ```
 $ ionic serve
 ```
