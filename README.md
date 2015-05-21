@@ -1,5 +1,4 @@
-# EnersyProject
-Livrable Ionic
+# EnersyProject - Livrable Ionic
 
-Livrable ok
-de
+
+Documentation pour lancer l'application en ligne de commande.
