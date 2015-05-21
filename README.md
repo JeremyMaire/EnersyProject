@@ -12,10 +12,11 @@ $ npm install -g cordova ionic
 
 ##### 4 - Créer un projet Ionic
  * 4.1 - Ouvrir un terminal, et exécuter la commande suivante :
+ * 4.2 - Ionic va créer un projet EnersyProjectIonic avec un dossier www qui contiendra les fichiers sources de l'application.
 ```
 $ ionic start EnersyProjectIonic
 ```
-* 4.2 - Ionic vient de créer un projet EnersyProjectIonic avec un dossier www qui contiendra les fichiers sources de l'application.
+* 4.2 - Ionic va créer un projet EnersyProjectIonic avec un dossier www qui contiendra les fichiers sources de l'application.
 
 ##### 5 - Ajouter les fichiers téléchargés dans le dossier *EnersyProjectIonic* crée à l'étape 4.1
   * 5.1 - Dans le *EnersyProjectIonic*, ouvrir le dossier <strong>www</strong>.
