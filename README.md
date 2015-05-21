@@ -26,6 +26,6 @@ $ ionic start EnersyProjectIonic
 ```
 $ ionic serve
 ```
-* 6.2 - Ionic nous offre la possibilité de choisir entre l'adresse ip , ou localhsot comme url en utilisant le port 8100.
+* 6.2 - Selectionner l'adresse ip, ou le localhost proposé par Ionic.
 * 6.3 - L'application se lance dans le navigateur par défaut à l'adresse suivante : 
   http://localhost:8100/#/ ou http://adresseip:8100/#/
